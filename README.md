@@ -10,6 +10,9 @@ Video of the Sonoff Hydra-Basic and Setup - video link here!!!
 - [Male Headers](https://amzn.to/2OnGpuZ)
 - [Jumper Wires](https://amzn.to/2OtIDJ4)
 
+### Wiring Diagram
+![alt text](https://raw.githubusercontent.com/digiblur/KULED-Smartswitch-Tasmota/master/GPIO%20PINS.jpg "Wiring Diagram")
+
 ### HomeAssistant Binary Sensor Config YAML
 ```yaml
 - platform: mqtt
