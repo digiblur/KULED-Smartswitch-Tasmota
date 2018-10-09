@@ -1,7 +1,7 @@
 # KULED-Smartswitch-Tasmota
 The KULED WiFi Smartswitch unboxing and Tasmota firmware flashing tutorial.
 
-Video of the Sonoff Hydra-Basic and Setup - video link here!!!
+Video of the Sonoff Hydra-Basic and Setup - https://www.youtube.com/watch?v=4nX90vhAniQ
 
 ### Parts List
 - [KULED SmartSwitch (2 Pack)](https://amzn.to/2PnkdhM) 
