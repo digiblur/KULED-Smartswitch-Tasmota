@@ -4,11 +4,11 @@ The KULED WiFi Smartswitch unboxing and Tasmota firmware flashing tutorial.
 Video of the Sonoff Hydra-Basic and Setup - https://www.youtube.com/watch?v=4nX90vhAniQ
 
 ### Parts List
-- [KULED SmartSwitch (2 Pack)](https://amzn.to/2CEAuwd) 
-- [or 4 pack](https://amzn.to/2yyVPmf)
-- [USB FTDI Adapter to Flash the Unit](https://amzn.to/2QXC5AU)
-- [Male Headers](https://amzn.to/2OnGpuZ)
-- [Jumper Wires](https://amzn.to/2OtIDJ4)
+- [KULED SmartSwitch (2 Pack)](https://amzn.to/2JqvWd6) 
+- [or 4 pack](https://amzn.to/2Odbc9v)
+- [USB FTDI Adapter to Flash the Unit](https://amzn.to/2Rpu9rx)
+- [Male Headers](https://amzn.to/2JtX1fB)
+- [Jumper Wires](https://amzn.to/2DcCiMX)
 
 ### Wiring Diagram
 ![alt text](https://raw.githubusercontent.com/digiblur/KULED-Smartswitch-Tasmota/master/GPIO%20PINS.jpg "Wiring Diagram")
